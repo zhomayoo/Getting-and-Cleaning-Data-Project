@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Project
-Course Project
+
+###Course Project
 
 You should create one R script called run_analysis.R that does the following.
 
@@ -12,7 +13,6 @@ You should create one R script called run_analysis.R that does the following.
 You should download and unzip the data source and put into a folder on your local drive.
 Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.
 Run source run_analysis.R : you will have a new file tiny_data.txt in your working directory.
-
-Additional Information
+###Additional Information
 
 You can find additional information about the variables, data and transformations in the CodeBook.MD file.
